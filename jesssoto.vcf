@@ -1,8 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Soto;Jesús;;;
-FN:Jesús Soto
-ORG:Facultad de Matemáticas
+N:Soto;Jesús ;;;
+FN:Jesús  Soto
+ORG:Facultad de Matemáticas Universidad de Sevilla
 ADR;TYPE=WORK:
 TITLE:Vicedecano de Estudiantes y Transferencia del Conocimiento
 TEL;TYPE=CELL:639166093
@@ -10,10 +10,10 @@ TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:fmatvicealum@us.es
-URL;TYPE=Digital Business Card:
+URL;TYPE=Digital Business Card:https://anteprandium.github.io/vcard/
 URL:
 URL;TYPE=LinkedIn:https://linkedin.com/in/jesús-soto/
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100354025
+UID:EnBizCard-100172852
 END:VCARD
