@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Soto;Jesús ;;;
-FN:Jesús  Soto
+N:Soto;Jesús;;;
+FN:Jesús Soto
 ORG:Facultad de Matemáticas Universidad de Sevilla
 ADR;TYPE=WORK:
 TITLE:Vicedecano de Estudiantes y Transferencia del Conocimiento
@@ -15,5 +15,5 @@ URL:
 URL;TYPE=LinkedIn:https://linkedin.com/in/jesús-soto/
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100172852
+UID:EnBizCard-100460648
 END:VCARD
